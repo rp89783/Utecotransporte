@@ -1,0 +1,14 @@
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\bin\Debug\netstandard2.0\UtecoTransporte.deps.json
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\bin\Debug\netstandard2.0\UtecoTransporte.dll
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\bin\Debug\netstandard2.0\ref\UtecoTransporte.dll
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\bin\Debug\netstandard2.0\UtecoTransporte.pdb
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\obj\Debug\netstandard2.0\UtecoTransporte.csprojAssemblyReference.cache
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\obj\Debug\netstandard2.0\UtecoTransporte.AssemblyInfoInputs.cache
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\obj\Debug\netstandard2.0\UtecoTransporte.AssemblyInfo.cs
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\obj\Debug\netstandard2.0\UtecoTransporte.dll
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\obj\Debug\netstandard2.0\ref\UtecoTransporte.dll
+C:\Users\Rolando\source\repos\UtecoTransporte\UtecoTransporte\UtecoTransporte\obj\Debug\netstandard2.0\UtecoTransporte.pdb
